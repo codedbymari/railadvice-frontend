@@ -125,7 +125,7 @@ function addTypingIndicator() {
         <div class="message-avatar" style="display: none;">🤖</div>
         <div class="message-content">
             <div class="typing-indicator">
-                Søker i ETCS kunnskapsbase
+                Søker
                 <div class="typing-dots">
                     <span></span>
                     <span></span>
